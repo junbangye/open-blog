@@ -1,4 +1,2 @@
 # open-blog
-开源的blog，记录个人的学习经历，搬运请注明出处
-
-如有需要其他相关知识点，请开issue留言，我会进行更新，因为由于部分原因，相当部分内容并没有开源。
+本blog fork from https://github.com/jgchenu/open-blog (2019-04-12), 此后时间添加的为个人学习的blog, 感谢jgchenu。 
